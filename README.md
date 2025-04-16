@@ -69,7 +69,6 @@ Key aspects:
 2. **Launch Tor Browser** and wait for connection
 3. **Access Dream Market** using official onion URL:
    - Primary: `http://dreav2e2ykxhuecs3xkaph4innh7opw73zxlsnuio7zz4f25hj3g2aad.onion/`
-   - Mirror: `http://dreammktxxxxxxxxxxxxxxxxxxxxxxxxxxxx.onion/` (verify PGP)
 
 4. **Security Recommendations:**
    - Always verify PGP signatures
